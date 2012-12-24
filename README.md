@@ -12,3 +12,7 @@ Lean Stats
 
     1. Start with most important value hypothesis of this system itself
     1. Initially, persevere
+
+  Wishlist
+  --------
+    * custom haml filter that lets me use LaTEX markup or something simmilar. This will be especially important when writing out equations.
